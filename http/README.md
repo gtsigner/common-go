@@ -31,3 +31,10 @@ TODO 适配http1.1 1 proxy
 # 解析proxy字符串
 func ParseProxy(str string) *Proxy
 ```
+
+## Functions
+
+``` golang
+// 解析proxy字符串，返回proxy结构体
+func ParseProxy(string)*Proxy
+```
